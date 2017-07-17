@@ -11,6 +11,8 @@
 }
 .box_2 {
 }
+.box_3 {
+}
 .ellipse {
 }
 .image {
@@ -66,4 +68,8 @@
 .line {
 }
 .arrow {
+}
+.text_field {
+  color:#000000;
+  text-align:left;
 }
