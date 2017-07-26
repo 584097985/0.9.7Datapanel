@@ -5559,7 +5559,7 @@
 }
 #u384 {
   position:absolute;
-  left:17px;
+  left:249px;
   top:451px;
   width:197px;
   height:175px;
@@ -5572,33 +5572,41 @@
   visibility:hidden;
   word-wrap:break-word;
 }
-#u386_img {
+#u386_div {
   position:absolute;
   left:0px;
   top:0px;
-  width:197px;
-  height:175px;
+  width:33px;
+  height:19px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-size:16px;
 }
 #u386 {
   position:absolute;
-  left:249px;
-  top:451px;
-  width:197px;
-  height:175px;
+  left:331px;
+  top:646px;
+  width:33px;
+  height:19px;
+  font-size:16px;
 }
 #u387 {
   position:absolute;
-  left:2px;
-  top:80px;
-  width:193px;
-  visibility:hidden;
-  word-wrap:break-word;
+  left:0px;
+  top:0px;
+  width:33px;
+  white-space:nowrap;
 }
 #u388_div {
   position:absolute;
   left:0px;
   top:0px;
-  width:33px;
+  width:145px;
   height:19px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
@@ -5611,9 +5619,9 @@
 }
 #u388 {
   position:absolute;
-  left:99px;
+  left:43px;
   top:646px;
-  width:33px;
+  width:145px;
   height:19px;
   font-size:16px;
 }
@@ -5621,38 +5629,30 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:33px;
+  width:145px;
   white-space:nowrap;
 }
-#u390_div {
+#u390_img {
   position:absolute;
   left:0px;
   top:0px;
-  width:33px;
-  height:19px;
-  background:inherit;
-  background-color:rgba(255, 255, 255, 0);
-  border:none;
-  border-radius:0px;
-  -moz-box-shadow:none;
-  -webkit-box-shadow:none;
-  box-shadow:none;
-  font-size:16px;
+  width:173px;
+  height:175px;
 }
 #u390 {
   position:absolute;
-  left:331px;
-  top:646px;
-  width:33px;
-  height:19px;
-  font-size:16px;
+  left:29px;
+  top:451px;
+  width:173px;
+  height:175px;
 }
 #u391 {
   position:absolute;
-  left:0px;
-  top:0px;
-  width:33px;
-  white-space:nowrap;
+  left:2px;
+  top:80px;
+  width:169px;
+  visibility:hidden;
+  word-wrap:break-word;
 }
 #u18_state1 {
   position:absolute;
